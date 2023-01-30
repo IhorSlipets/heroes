@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": "cb3cbdc2-4dee-40b1-bc9c-7e173cf7cbfd",
+      "name": "Pat Reiley",
+      "description": "training NBA team",
+      "element": "wind"
+    },
+    {
+      "id": "1c6bddf7-0e2e-41aa-a072-60eee5d50927",
+      "name": "admin",
+      "description": "watching PC",
+      "element": "fire"
+    },
+    {
+      "id": "254816ee-736d-4dd7-b014-9e5264fa19ac",
+      "name": "thor",
+      "description": "axe can take",
+      "element": "earth"
+    },
+    {
+      "id": "10828702-605b-47d4-9b50-386984771509",
+      "name": "hero",
+      "description": "simple hero",
+      "element": "water"
+    },
+    {
+      "id": "be82d5f5-a1ca-4d6e-8044-1e2d85fc5f4c",
+      "name": "Second Hero",
+      "description": "mega hero after first",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}

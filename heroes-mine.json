@@ -1,0 +1,62 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "d2a8efa4-5e8a-4668-994b-6975132996fa",
+      "name": "Pat Reiley",
+      "description": "training NBA team",
+      "element": "wind"
+    },
+    {
+      "id": "d9b5ac86-d744-4cc3-a354-4f07c4086a2b",
+      "name": "admin",
+      "description": "PC watching",
+      "element": "fire"
+    },
+    {
+      "id": "46e87b36-8e75-42d1-814b-98693822d8ca",
+      "name": "thor",
+      "description": "axe my power",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "color": "btn btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "color": "btn btn-danger"
+    },
+    {
+      "name": "water",
+      "color": "btn btn-primary"
+    },
+    {
+      "name": "wind",
+      "color": "btn btn-success"
+    },
+    {
+      "name": "earth",
+      "color": "btn btn-secondary"
+    }
+  ]
+}
